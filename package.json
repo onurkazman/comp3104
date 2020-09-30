@@ -1,0 +1,24 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkazman/comp3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurkazman/comp3104/issues"
+  },
+  "homepage": "https://github.com/onurkazman/comp3104#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "npm": "^6.14.8"
+  }
+}
